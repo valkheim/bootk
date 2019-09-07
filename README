@@ -1,0 +1,12 @@
+# Requirements
+
+- gcc
+- grub
+- xorriso (libisoburn)
+- mformat (mtools)
+- qemu (qemu qemu-arch-extra)
+
+# doc
+
+- https://wiki.osdev.org/Bare_Bones
+- https://wiki.osdev.org/Meaty_Skeleton
